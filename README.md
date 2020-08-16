@@ -1,4 +1,4 @@
-Pantalla 1: En una granja de un lugar lejano, mamá pata esta esperando la llegada de sus polluelos pero uno nace distinto a los demás, nace de color blanco mientras los otros eran amarillos. 
+Pantalla 1: En una granja de un lugar lejano, mamá pata esperaba la llegada de sus polluelos pero uno nació distinto a los demás, nace de color blanco mientras los otros eran amarillos,
 Accón: Presionar boton de "comenzar" para continuar la historia presionar boton de "creditos" para ir a la pantalla final
 
 Pantalla 2: Como el patito era diferente, el resto de animales del corral no tardaron en fijarse en su aspecto y comenzaron a reírse de él, al principio tampoco lo aceptaban en su familia y se burlaban de él.
