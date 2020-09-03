@@ -1,1 +1,1 @@
-El juego consiste en pasar todas las ellipses blancas sin chocarlas, el jugador tendrá 5 vidas y debera realizar 5 puntos para ganar, en caso de chocar una ellipse blanca el jugador reaparecerá en la posicion inicial con los puntos logrados hasta el momento. En caso de perder las 5 vidas y no haber llegado a los 5 puntos el jugador pierde y debera reiniciar el juego desde cero presionando la letra "c", y en caso de ganar y querer jugar nuevamente se deberá presionar también la letra "c"
+
